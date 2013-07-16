@@ -1,0 +1,773 @@
+Ttestw
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Info.plist" testw/testw-Info.plist
+cProcessPCH /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.pth testw/testw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.o "/Users/zhang/项目/iOS5 dev/testw/testw/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.o "/Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.o "/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.o "/Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw" normal i386
+cGenerateDSYMFile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app.dSYM" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw"
+cCpResource testw/Default.png build/Debug-iphonesimulator/testw.app/Default.png
+cCopyStringsFile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/InfoPlist.strings" testw/en.lproj/InfoPlist.strings
+cCpResource testw/Default@2x.png build/Debug-iphonesimulator/testw.app/Default@2x.png
+cCpResource testw/Default-568h@2x.png build/Debug-iphonesimulator/testw.app/Default-568h@2x.png
+cCompileXIB "/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/FlipsideViewController.xib"
+cCpResource testw/阴.png build/Debug-iphonesimulator/testw.app/阴.png
+cCompileXIB "/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/MainViewController.xib"
+cCpResource testw/沙尘暴.png build/Debug-iphonesimulator/testw.app/沙尘暴.png
+cCpResource testw/小雨.png build/Debug-iphonesimulator/testw.app/小雨.png
+cCpResource testw/晴.png build/Debug-iphonesimulator/testw.app/晴.png
+cCpResource testw/晴夜间.png build/Debug-iphonesimulator/testw.app/晴夜间.png
+cTouch "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000516CAC420000000000000110
+t1366076482
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005108FBC20000000000228FE0
+t1359543234
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005108FBC800000000003DDFA0
+t1359543240
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005108FBC700000000000015F7
+t1359543239
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005108FBD70000000000000E8D
+t1359543255
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005108FBDA0000000000AB6230
+t1359543258
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c000000005108FBF80000000000001B73
+t1359543288
+s7027
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app.dSYM
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Default.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Default@2x.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Info.plist
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/PkgInfo
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/FlipsideViewController.nib
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/MainViewController.nib
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/小雨.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/晴.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/晴夜间.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/沙尘暴.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/阴.png
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/testw.LinkFileList
+c000000005198EE200000000000000802
+t1368976928
+s2050
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m
+c00000000501C2E06000000000000099B
+t1344024070
+s2459
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m
+c00000000501C2E060000000000000C58
+t1344024070
+s3160
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m
+c00000000501C2E060000000000002005
+t1344024070
+s8197
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m
+c00000000501C2E06000000000000074B
+t1344024070
+s1867
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m
+c00000000501C2E06000000000000113C
+t1344024070
+s4412
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m
+c00000000501C2E06000000000000200C
+t1344024070
+s8204
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m
+c00000000501C2E060000000000002984
+t1344024070
+s10628
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m
+c00000000501C2E0600000000000007AE
+t1344024070
+s1966
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m
+c00000000501C2E060000000000000FB7
+t1344024070
+s4023
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m
+c00000000501C2E0600000000000034C3
+t1344024070
+s13507
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m
+c00000000501C2E060000000000000F4D
+t1344024070
+s3917
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m
+c00000000501C2E060000000000000DB4
+t1344024070
+s3508
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.m
+c000000005194AB510000000000000919
+t1368697681
+s2329
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.m
+c000000005194AB520000000000000286
+t1368697682
+s646
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m
+c000000005198EDDF0000000000001788
+t1368976863
+s6024
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/FlipsideViewController.xib
+c000000005194AB520000000000002D8A
+t1368697682
+s11658
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/InfoPlist.strings
+c000000005194AB51000000000000002D
+t1368697681
+s45
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/MainViewController.xib
+c000000005198EDB10000000000006DC4
+t1368976817
+s28100
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/main.m
+c000000005194AB510000000000000156
+t1368697681
+s342
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/testw-Prefix.pch
+c000000005194AB510000000000000139
+t1368697681
+s313
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/小雨.png
+c00000000515BE9F40000000000001853
+t1364978164
+s6227
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/晴.png
+c00000000515BEA240000000000002BF6
+t1364978212
+s11254
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/晴夜间.png
+c00000000515BE9FE0000000000001C92
+t1364978174
+s7314
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/沙尘暴.png
+c00000000515BE9DE00000000000020FB
+t1364978142
+s8443
+
+N/Users/zhang/项目/iOS5 dev/testw/testw/阴.png
+c00000000515BE9D400000000000015C6
+t1364978132
+s5574
+
+N/var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.pth
+t2
+s0
+
+Ntestw/testw-Info.plist
+c000000005194AB510000000000000552
+t1368697681
+s1362
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m"
+r0
+
+CBuild AST from "/Users/zhang/项目/iOS5 dev/testw/testw/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies747c08a02549b741^355d23a02549b741^---0#1#0#--18"Check dependencies36"7ABCCF35-BA1D-48D9-A1F8-CAC69AE96C7D-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.o "/Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.676315
+e390669728.799344
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.mc860ada02549b741^e8d9cca02549b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/AppDelegate.m0000000000000000^3351"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.o testw/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/AppDelegate.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/AppDelegate.o"36"FC3FAD6B-0508-439B-8A39-22B0F3B7510A-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.o "/Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.695942
+e390669728.823989
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.mf25db2a02549b741^ad13d3a02549b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/FlipsideViewController.m0000000000000000^3417"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.o testw/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/FlipsideViewController.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/FlipsideViewController.o"36"234410B0-6FD9-41C4-BE8F-FDC1AD09E2FF-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.o "/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.686352
+e390669728.826929
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m:74:10: warning: local declaration of 'testPicture' hides instance variable [-Wshadow-ivar]
+o        [testPicture setImage:[UIImage imageNamed:picname]];
+o         ^
+o/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m:102:23: warning: unused variable 'realTimeweatherinfo' [-Wunused-variable]
+o        NSDictionary *realTimeweatherinfo = [realtimejson objectForKey:@"weatherinfo"];
+o                      ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.mc6fdafa02549b741^fbafd3a02549b741^-496"/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m:74:10: warning: local declaration of 'testPicture' hides instance variable [-Wshadow-ivar]        [testPicture setImage:[UIImage imageNamed:picname]];         ^/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m:102:23: warning: unused variable 'realTimeweatherinfo' [-Wunused-variable]        NSDictionary *realTimeweatherinfo = [realtimejson objectForKey:@"weatherinfo"];                      ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@58"Local declaration of 'testPicture' hides instance variable-390669728#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/MainViewController.m0000000000000000^73#9#73#9#2236#0#14"Semantic Issue--2@37"Unused variable 'realTimeweatherinfo'-390669728#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/MainViewController.m0000000000000000^101#22#101#22#3177#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/MainViewController.m0000000000000000^3393"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.o testw/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/MainViewController.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/MainViewController.o"36"20B7C663-7BA5-45C3-9974-57FBE83DB397-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.699123
+e390669728.799837
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.mbb2bb3a02549b741^16dfcca02549b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m0000000000000000^3439"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.o testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/NSObject+SBJson.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/NSObject+SBJson.o"36"D24290E3-690E-46CE-B5A3-4E4C90640119-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.803698
+e390669728.861037
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m85ebcda02549b741^3178dca02549b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m0000000000000000^3421"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.o testw/../../Weather/json_class/SBJSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonParser.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonParser.o"36"F85A0363-B408-4C0B-92C9-9B151D086331-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.577766
+e390669728.684959
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.mfb1f94a02549b741^7172afa02549b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m0000000000000000^3457"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.o testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParser.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParser.o"36"0D554E2B-63F3-4F33-A93E-C773ABC45E20-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.803713
+e390669728.848832
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m85ebcda02549b741^cf4bd9a02549b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m0000000000000000^3523"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAccumulator.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o"36"EEF42C2D-47C8-4863-A38F-3466B37F03CC-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.577807
+e390669728.674935
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m211f94a02549b741^2ac7aca02549b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m0000000000000000^3499"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.o testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserAdapter.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserAdapter.o"36"B51D6718-FE6F-479F-A734-EBECB2BF3D9F-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.825354
+e390669728.915567
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.mc87dd3a02549b741^ba6aeaa02549b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m0000000000000000^3487"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.o testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamParserState.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamParserState.o"36"EE51DFDF-5311-4080-8A6C-E4E25818E614-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.577811
+e390669728.697777
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m8e2194a02549b741^baa0b2a02549b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m0000000000000000^3457"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.o testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriter.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriter.o"36"CB75A7B4-CE17-4C5D-9D59-5C0BC316EF40-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.577892
+e390669728.656290
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m3a2194a02549b741^6a16a8a02549b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m0000000000000000^3523"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterAccumulator.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o"36"ECFCFFCA-5209-4C98-83F0-661EEF903811-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.828203
+e390669728.891562
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.mca32d4a02549b741^3a3ce4a02549b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m0000000000000000^3487"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.o testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonStreamWriterState.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonStreamWriterState.o"36"F313362F-6BD5-4AAD-BF1A-9DC8AE77DE90-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.850191
+e390669728.922749
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m471cdaa02549b741^1539eca02549b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m0000000000000000^3439"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.o testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonTokeniser.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonTokeniser.o"36"CF266874-C64F-40F3-9346-A7B8583C2168-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.862580
+e390669728.915490
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m0003dda02549b741^e161eaa02549b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m0000000000000000^3445"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.o testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonUTF8Stream.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonUTF8Stream.o"36"6F98F0DF-EF71-4980-8A8F-AC7FAA0D19F9-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.o "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.892979
+e390669728.937364
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m4fcae4a02549b741^5ef6efa02549b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m0000000000000000^3421"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.o testw/../../Weather/json_class/SBJSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/../../Weather/json_class/SBJSON/SBJsonWriter.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/SBJsonWriter.o"36"F653E788-C84F-406C-85CC-6E423B8751BD-
+
+CCompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.o "/Users/zhang/项目/iOS5 dev/testw/testw/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.657634
+e390669728.694531
+r1
+xCompileC
+xbuild/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.o
+x/Users/zhang/项目/iOS5 dev/testw/testw/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/zhang/项目/iOS5 dev/testw/testw/main.md289a8a02549b741^61e0b1a02549b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/main.m0000000000000000^3309"CompileC build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.o testw/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -include /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch -MMD -MT dependencies -MF "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.dia" -c "/Users/zhang/项目/iOS5 dev/testw/testw/main.m" -o "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/main.o"36"FEBE294E-36AD-4466-9B7D-E73A83084C5E-
+
+CCompileXIB "/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/FlipsideViewController.xib"
+s390669729.052919
+e390669729.101061
+r1
+xCompileXIB
+x/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/FlipsideViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/FlipsideViewController.xibb1c20da12549b741^0de019a12549b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/en.lproj/FlipsideViewController.xib0000000000000000^926"CompileXIB testw/en.lproj/FlipsideViewController.xib    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/FlipsideViewController.nib" "/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/FlipsideViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"884F6070-9DC2-410C-8349-C22A1FF6A3F0-
+
+CCompileXIB "/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/MainViewController.xib"
+s390669729.052946
+e390669730.007283
+r1
+xCompileXIB
+x/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/MainViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compiling /Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/MainViewController.xib9fca0da12549b741^f9dc01a22549b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/en.lproj/MainViewController.xib0000000000000000^914"CompileXIB testw/en.lproj/MainViewController.xib    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/MainViewController.nib" "/Users/zhang/项目/iOS5 dev/testw/testw/en.lproj/MainViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"FF0FC3C9-36BE-431D-8407-E3BBA692E073-
+
+CCopyStringsFile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/InfoPlist.strings" testw/en.lproj/InfoPlist.strings
+s390669729.021474
+e390669729.061898
+r1
+xCopyStringsFile
+x/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj/InfoPlist.strings
+xtestw/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy testw/en.lproj/InfoPlist.strings899505a12549b741^d4d70fa12549b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/en.lproj/InfoPlist.strings0000000000000000^563"CopyStringsFile build/Debug-iphonesimulator/testw.app/en.lproj/InfoPlist.strings testw/en.lproj/InfoPlist.strings    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/en.lproj" -- testw/en.lproj/InfoPlist.strings36"B93E2958-2166-4B12-B9C1-1910DFDCD865-
+
+CCpResource testw/Default-568h@2x.png build/Debug-iphonesimulator/testw.app/Default-568h@2x.png
+s390669729.021992
+e390669729.051424
+r1
+xCpResource
+xtestw/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/testw.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/testw.app/Default-568h@2x.pnge5b605a12549b741^ff400da12549b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/Default-568h@2x.png000000000080d041^588"CpResource "testw/Default-568h@2x.png" "build/Debug-iphonesimulator/testw.app/Default-568h@2x.png"    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/Default-568h@2x.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"FFC0C781-FB1F-4521-950C-A7A63490CAA2-
+
+CCpResource testw/Default.png build/Debug-iphonesimulator/testw.app/Default.png
+s390669729.021468
+e390669729.051512
+r1
+xCpResource
+xtestw/Default.png
+xbuild/Debug-iphonesimulator/testw.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/testw.app/Default.png369505a12549b741^b1520da12549b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/Default.png000000000080d041^560"CpResource testw/Default.png build/Debug-iphonesimulator/testw.app/Default.png    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/Default.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"9A47A45D-BAB1-490D-8D9E-DE46D76C72BB-
+
+CCpResource testw/Default@2x.png build/Debug-iphonesimulator/testw.app/Default@2x.png
+s390669729.021477
+e390669729.051485
+r1
+xCpResource
+xtestw/Default@2x.png
+xbuild/Debug-iphonesimulator/testw.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/testw.app/Default@2x.png649605a12549b741^724d0da12549b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/Default@2x.png000000000080d041^573"CpResource "testw/Default@2x.png" "build/Debug-iphonesimulator/testw.app/Default@2x.png"    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/Default@2x.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"47DCDB3B-F430-42B6-8710-FD25AEAF8737-
+
+CCpResource testw/小雨.png build/Debug-iphonesimulator/testw.app/小雨.png
+s390669729.062134
+e390669729.065639
+r1
+xCpResource
+xtestw/小雨.png
+xbuild/Debug-iphonesimulator/testw.app/小雨.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/testw.app/小雨.png080610a12549b741^85cd10a12549b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/%E5%B0%8F%E9%9B%A8.png000000000080d041^557"CpResource testw/小雨.png build/Debug-iphonesimulator/testw.app/小雨.png    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/小雨.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"ED5BB5DB-BAC7-4B50-9201-8B280D5E1CCC-
+
+CCpResource testw/晴.png build/Debug-iphonesimulator/testw.app/晴.png
+s390669729.062156
+e390669729.064555
+r1
+xCpResource
+xtestw/晴.png
+xbuild/Debug-iphonesimulator/testw.app/晴.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/testw.app/晴.pngb90010a12549b741^f58510a12549b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/%E6%99%B4.png000000000080d041^548"CpResource testw/晴.png build/Debug-iphonesimulator/testw.app/晴.png    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/晴.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"466809B3-3CED-425F-A194-A629C01ED5AC-
+
+CCpResource testw/晴夜间.png build/Debug-iphonesimulator/testw.app/晴夜间.png
+s390669729.065858
+e390669729.068341
+r1
+xCpResource
+xtestw/晴夜间.png
+xbuild/Debug-iphonesimulator/testw.app/晴夜间.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/testw.app/晴夜间.png2cf510a12549b741^ca8a11a12549b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/%E6%99%B4%E5%A4%9C%E9%97%B4.png000000000080d041^566"CpResource testw/晴夜间.png build/Debug-iphonesimulator/testw.app/晴夜间.png    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/晴夜间.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"30BAE919-3BF4-4291-8FFA-409F488259C1-
+
+CCpResource testw/沙尘暴.png build/Debug-iphonesimulator/testw.app/沙尘暴.png
+s390669729.058021
+e390669729.060937
+r1
+xCpResource
+xtestw/沙尘暴.png
+xbuild/Debug-iphonesimulator/testw.app/沙尘暴.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/testw.app/沙尘暴.pngfcfd0ea12549b741^5f990fa12549b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/%E6%B2%99%E5%B0%98%E6%9A%B4.png000000000080d041^566"CpResource testw/沙尘暴.png build/Debug-iphonesimulator/testw.app/沙尘暴.png    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/沙尘暴.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"2585520A-AB29-400D-8839-D771470FBF6B-
+
+CCpResource testw/阴.png build/Debug-iphonesimulator/testw.app/阴.png
+s390669729.052926
+e390669729.056418
+r1
+xCpResource
+xtestw/阴.png
+xbuild/Debug-iphonesimulator/testw.app/阴.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/testw.app/阴.pngaebb0da12549b741^58750ea12549b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app/%E9%98%B4.png000000000080d041^548"CpResource testw/阴.png build/Debug-iphonesimulator/testw.app/阴.png    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhang/项目/iOS5 dev/testw/testw/阴.png" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"1D89073E-59F1-4947-BD32-EBF61A019116-
+
+CGenerateDSYMFile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app.dSYM" "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw"
+s390669728.984724
+e390669729.014005
+r1
+xGenerateDSYMFile
+x/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app.dSYM
+x/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Generate /Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app.dSYMf628fca02549b741^471d05a12549b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/build/Debug-iphonesimulator/testw.app.dSYM000000000080d041^607"GenerateDSYMFile build/Debug-iphonesimulator/testw.app.dSYM build/Debug-iphonesimulator/testw.app/testw    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw" -o "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app.dSYM"36"F7EE93FF-7136-4F75-AC95-5336C4404B8F-
+
+CLd "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw" normal i386
+s390669728.944279
+e390669728.977779
+r1
+xLd
+x/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Link /Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw20d4f1a02549b741^6e51faa02549b741^---0#0#0#--1123"Ld build/Debug-iphonesimulator/testw.app/testw normal i386    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" -filelist "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/Objects-normal/i386/testw.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/testw"36"2F148371-7F98-46C4-9A35-584710886686-
+
+CProcessInfoPlistFile "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Info.plist" testw/testw-Info.plist
+s390669728.145160
+e390669728.149906
+r1
+xProcessInfoPlistFile
+x/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Info.plist
+xtestw/testw-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process testw/testw-Info.plist5c3b25a02549b741^745f26a02549b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/testw-Info.plist0000000000000000^630"ProcessInfoPlistFile build/Debug-iphonesimulator/testw.app/Info.plist testw/testw-Info.plist    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility testw/testw-Info.plist -genpkginfo "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app/Info.plist"36"A9D7FB24-2D9E-4353-A2FA-C4F0EB9CE8C8-
+
+CProcessPCH /Users/zhang/Library/Developer/Xcode/DerivedData/testw-dmvlagkazmpwzpaltnzymjnifdgz/Index/PrecompiledHeaders/testw-Prefix-fwbquxugbccdpzbxgasogdlpbemn_ast/testw-Prefix.pch.pth testw/testw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.pth testw/testw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390669728.157702
+e390669728.570628
+r1
+xProcessPCH
+x/var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.pth
+xtestw/testw-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile testw/testw-Prefix.pch077e28a02549b741^901392a02549b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/zhang/%E9%A1%B9%E7%9B%AE/iOS5%20dev/testw/testw/testw-Prefix.pch0000000000000000^3373"ProcessPCH /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.pth testw/testw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-generated-files.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-own-target-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-all-target-headers.hmap" -iquote "/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/testw-project-headers.hmap" "-I/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources/i386" "-I/Users/zhang/项目/iOS5 dev/testw/build/testw.build/Debug-iphonesimulator/testw.build/DerivedSources" "-F/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.dia -c "/Users/zhang/项目/iOS5 dev/testw/testw/testw-Prefix.pch" -o /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/__/02htzlln6q9dcpgmf2txsx1m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/testw-Prefix-bbzotnidbsltkjftjxhnhqcjnsgm/testw-Prefix.pch.d36"46C82EA1-466D-4CCB-88D8-386D759B6D3C-
+
+CTouch "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"
+s390669730.014817
+e390669730.021998
+r1
+xTouch
+x/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Touch /Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app55dd03a22549b741^bea005a22549b741^---0#0#0#--380"Touch build/Debug-iphonesimulator/testw.app    cd "/Users/zhang/项目/iOS5 dev/testw"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/zhang/项目/iOS5 dev/testw/build/Debug-iphonesimulator/testw.app"36"A217E284-3862-42B4-A5A7-2C3747DBCE07-
+
